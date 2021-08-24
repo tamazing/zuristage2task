@@ -22,7 +22,16 @@ h1 .name {
   font-size: 10px;
   text-transform: capitalize;
 }
+table {
+  border-radius: 30px;
+}
 
+table tr td img {
+  border-radius: 40px;
+}
+address a {
+  float: right;
+}
 img {
   width: 120px;
   height: 150px;
